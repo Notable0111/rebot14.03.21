@@ -1,29 +1,19 @@
 {
-  "name": "ls",
+  "name": "src",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Notable0111/Project.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Notable0111/Project/issues"
-  },
-  "homepage": "https://github.com/Notable0111/Project#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
-    "gulp-cli": "^2.3.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
     "node-sass": "^5.0.0"
-  },
-  "dependencies": {}
+  }
 }
